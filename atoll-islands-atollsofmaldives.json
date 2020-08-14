@@ -966,11 +966,12 @@
             "atoll": "SH",
             "type": "Islands",
             "name": "Farukolhu",
-            "alt_name": "ADF,H",
+            "alt_name": null,
             "latitude": "6.191666667",
             "longitude": "73.2975",
             "flags": [
-                "PR"
+                "PR",
+                "ADF,H"
             ]
         },
         {
@@ -3310,11 +3311,12 @@
             "atoll": "B",
             "type": "Islands",
             "name": "Dharavandhoo",
-            "alt_name": "ADF,H",
+            "alt_name": null,
             "latitude": "5.157777778",
             "longitude": "73.13027778",
             "flags": [
-                "I"
+                "I",
+                "ADF,H"
             ]
         },
         {
@@ -11780,11 +11782,12 @@
             "atoll": "GN",
             "type": "Islands",
             "name": "Fuvahmulah",
-            "alt_name": "ADF,H",
+            "alt_name": null,
             "latitude": "-0.295555556",
             "longitude": "73.42472222",
             "flags": [
-                "I"
+                "I",
+                "ADF,H"
             ]
         }
     ],
