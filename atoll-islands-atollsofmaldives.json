@@ -1131,11 +1131,11 @@
         {
             "atoll": "SH",
             "type": "Islands",
-            "name": "",
-            "alt_name": "Kan'ditheemuI",
+            "name": "Kan'ditheemu",
+            "alt_name": "",
             "latitude": "6.440277778",
             "longitude": "72.91638889",
-            "flags": []
+            "flags": ["I"]
         },
         {
             "atoll": "SH",
@@ -2546,11 +2546,11 @@
         {
             "atoll": "R",
             "type": "Islands",
-            "name": "",
-            "alt_name": "GiraavaruU",
+            "name": "Giraavaru",
+            "alt_name": "",
             "latitude": "5.588333333",
             "longitude": "72.86111111",
-            "flags": []
+            "flags": ["U"]
         },
         {
             "atoll": "R",
@@ -2987,11 +2987,11 @@
         {
             "atoll": "R",
             "type": "Islands",
-            "name": "",
-            "alt_name": "MeedhupparuR",
+            "name": "Meedhupparu",
+            "alt_name": "",
             "latitude": "5.455833333",
             "longitude": "72.97972222",
-            "flags": []
+            "flags": ["R"]
         },
         {
             "atoll": "R",
@@ -3906,11 +3906,11 @@
         {
             "atoll": "B",
             "type": "Islands",
-            "name": "",
-            "alt_name": "NelivarufinolhuU",
+            "name": "Nelivarufinolhu",
+            "alt_name": "",
             "latitude": "5.125555556",
             "longitude": "73.08527777777778",
-            "flags": []
+            "flags": ["U"]
         },
         {
             "atoll": "B",
@@ -5363,11 +5363,11 @@
         {
             "atoll": "K",
             "type": "Islands",
-            "name": "",
-            "alt_name": "Male'I[H]",
+            "name": "Malé",
+            "alt_name": "Male'",
             "latitude": "4.174166667",
             "longitude": "73.50972222",
-            "flags": []
+            "flags": ["I", "H"]
         },
         {
             "atoll": "K",
@@ -5593,11 +5593,11 @@
         {
             "atoll": "K",
             "type": "Islands",
-            "name": "",
-            "alt_name": "VelassaruR",
+            "name": "Velassaru",
+            "alt_name": "",
             "latitude": "4.121388889",
             "longitude": "73.43694444",
-            "flags": []
+            "flags": ["R"]
         },
         {
             "atoll": "K",
@@ -6174,11 +6174,11 @@
         {
             "atoll": "AA",
             "type": "Islands",
-            "name": "",
-            "alt_name": "UkulhasI",
+            "name": "Ukulhas",
+            "alt_name": "",
             "latitude": "4.214722222",
             "longitude": "72.86388889",
-            "flags": []
+            "flags": ["I"]
         },
         {
             "atoll": "AA",
@@ -6638,11 +6638,11 @@
         {
             "atoll": "ADH",
             "type": "Islands",
-            "name": "",
-            "alt_name": "RangaliR",
+            "name": "Rangali",
+            "alt_name": "",
             "latitude": "3.617777778",
             "longitude": "72.72305556",
-            "flags": []
+            "flags": ["R"]
         },
         {
             "atoll": "ADH",
@@ -7126,11 +7126,11 @@
         {
             "atoll": "M",
             "type": "Islands",
-            "name": "",
-            "alt_name": "KolhufushiI",
+            "name": "Kolhufushi",
+            "alt_name": "",
             "latitude": "2.779722222",
             "longitude": "73.42527778",
-            "flags": []
+            "flags": ["I"]
         },
         {
             "atoll": "M",
@@ -9347,12 +9347,12 @@
         {
             "atoll": "L",
             "type": "Islands",
-            "name": "",
-            "alt_name": "MaandhooU",
+            "name": "Maandhoo",
+            "alt_name": "",
             "latitude": "1.873611111",
             "longitude": "73.52805556",
             "flags": [
-                "IND"
+                "IND", "U"
             ]
         },
         {
